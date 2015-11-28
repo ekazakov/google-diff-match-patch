@@ -50,3 +50,4 @@ This library also implements a Bitap matching algorithm at the heart of a flexib
 http://neil.fraser.name/software/diff_match_patch/bitap.ps
 
 [pre-diff speedups and post-diff cleanups] https://neil.fraser.name/writing/diff/
+matching and patching strategy[http://neil.fraser.name/writing/patch/]
